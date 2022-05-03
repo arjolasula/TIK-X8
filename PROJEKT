@@ -1,0 +1,88 @@
+<html lang="en">
+<head>
+<meta charest="UTF-8">
+<title>PROJEKT</title>
+</head>
+<body style="background-color:grey;">
+<input type="button"value="PROJEKT"onclick="shkruaj('TE MBROJME KAFSHET');">
+<script>
+   function shkruaj(txt){
+        document.write(txt);
+}
+</script>
+<from action="projekt.html" method="post">
+<table border="3">
+<tbody>
+<center><caption><caption></center>
+<tr>
+<td><a href="./tik.html" style="font-size:200%;">GALERIA </a></td>
+<td><a href="./tik1.html" style="font-size:200%;">KREU </a></td>
+<td><a href="./tik3.html"style="font-size:200%;">INFORMACIONE </a></td>
+<td><a href="./tik4.html"style="font-size:200%;">ME SHUME </a></td>
+</tr>
+
+<hr>
+</tbody>
+</table>
+<ul>
+<center><li><h1 style="color:darkblue;">PROJEKT</h1></li></center>
+<right><li><h4 style="color:black;">TEMA : KRIJIMI I NJE FAQE WEB</h4></li></right>
+<right><li><h4 style="color:black;">TEMATIKA :MBROJTJA E KAFSHEVE</h4></li></right>
+<right><li><h4 style="color:black;">LENDA : TIK</h4></li></right>
+<right><li><h4 style="color:black;">KLASA : X-8</h4></li></right>
+<right><li><h4 style="color:black;">SHKOLLA : “QEMAL STAFA"</h4></li></right>
+<right><li><h4 style="color:black;">TREMUJORI: II</h4></li></right>
+<right><li><h4 style="color:black;">VITI SHKOLLOR : 2021-2022</h4></li></right>
+<right><li><h4 style="color:black;">MESUESJA E LENDES : ELISABETA DRITA</h4></li></right>
+<right><li><h4 style="color:black;">PUNOI: ARJOLA SULA</h4></li></right>
+</ul>
+<hr>
+<html lang="en">
+<head>
+<meta charest="UTF-8">
+<title>KAFSHET</title>
+</head>
+<body>
+<a href="./TIK.html">Shko te dokumenti 1</a>
+<h1 style="color:red;">ZHDUKJA E KAFSHEVE</h1>
+<p>Kafshët janë pjesë e ekosistemit tonë, jo vetëm që kontribuojnë në ekosistemin dhe
+ndihmojnë në balancimin e ekosistemit, ato gjithashtu kanë shumë përdorime në
+jetën tonë të përditshme, si burim i të ushqyerit, kërkimeve, kafshëve shtëpiake dhe
+tregtisë. Por për shkak të lakmisë, egoizmit dhe zgjerimit të popullatave të njeriut,
+ka bërë që popullata e kafshëve të zvogëlohet deri në atë pikë sa të jenë në rrezik
+dhe përfundimisht të zhduken nga sipërfaqja e Tokës si zogu Dodo dhe Tigri
+Tasmanian. Megjithatë, kjo çështje injorohet ose anashkalohet, pasi na intereson
+më shumë se çfarë na prek drejtpërdrejt, kur duhet të dimë se herët a vonë, si pjesë e
+specieve të gjitarëve, këto dukuri do të na ndodhin edhe neve. Fragmentimi i
+habitatit, shkatërrimi ose humbja, gjuetia e paqëndrueshme dhe tregtia e kafshëve
+të egra, ngrohja globale dhe sëmundjet janë faktorët që çojnë në zhdukjen e
+kafshëve.</p>
+<img src="Panda".jpg" width="500" height="500"/>
+<img src="elephant2".webp" width="400" height="600"/>
+</p>
+</body>
+</html>
+<html lang="en">
+<head>
+<meta charest="UTF-8">
+<title>KAFSHET</title>
+</head>
+<body>
+<a href="./TIK-X8.html">Shko te dokumenti 1</a>
+<h1 style="color:darkdarkbue;">Hapat Drejt Ruajtjes se Jetes se Eger</h1>
+<ul>
+<li><h1>• Për të studiuar dhe marrë të gjitha të dhënat e kafshëve të egra, në veçanti, sasinë dhe zhvillimin e kafshëve të
+egra.</h1><li>
+<h1>• Mbrojtja e habitatit përmes mbrojtjes së pyjeve.</h1></li>
+<h1>• Kufizimin e rajoneve të habitatit të tyre natyror.</h1></li>
+<h1>• Mbrojtja e kafshëve nga ndotja dhe rreziqet natyrore.</h1></li>
+<h1>• Kufizim i plotë në gjuetinë dhe kapjen e kafshëve të egra.</h1></li>
+<h1>• Të vendosë kufizime në eksportin dhe importimin e produkteve të kafshëve të egra dhe të vendosë ndëshkime
+serioze për ata që merren me një aktivitet të tillë.</h1></li>
+<h1>• Zhvillimi i vendstrehimeve të lojërave për kafshë të egra të veçanta ose për jetën botërore në veçanti.</h1></li>
+<h1>• Duhet të merren masa të veçanta për të mbrojtur ato specie shumë të kufizuara.</h1></li>
+<h1>• Të krijojë një kuptim të përgjithshëm të mbrojtjes së kafshëve të egra në nivel vendas dhe ndërkombëtar.</h1></li>
+<h1>• Miratimi nga personeli i trajnuar i një sistemi të menaxhimit të kafshëve të egra.</h1></li>
+</body>
+</ul>
+</html>
